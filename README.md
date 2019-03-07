@@ -9,6 +9,8 @@ copy this code
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
     
+next..
+    
 create new folder in .vim => bundle
 
 enter the bundle folder
