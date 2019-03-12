@@ -37,3 +37,6 @@ next..
 open vim in the terminal
 
 and type :PluginInstall (on normal mode)
+
+
+good luck....
