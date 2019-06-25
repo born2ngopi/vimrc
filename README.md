@@ -40,3 +40,6 @@ and type :PluginInstall (on normal mode)
 
 
 good luck....
+
+
+https://gist.github.com/chandraagungrizky/b6b51710d3546bdc0b0d41a343a81acb
